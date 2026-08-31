@@ -8,12 +8,6 @@
 
 </div>
 
-## 🙋‍♂️ About Me
-
-- 건국대학교 글로컬캠퍼스 소프트웨어전공
-- KRAFTON Jungle 12기 수료
-- 관심 분야: AI 애플리케이션, 백엔드, 웹 서비스
-
 <div align="center">
 
 ## ✨ Tech Stack ✨
@@ -59,9 +53,6 @@
 
 <a href="https://fifth-panda-1e4.notion.site/c99c6dd2f39982959a3281854e538859"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
 <a href="https://velog.io/@kms1064/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"></a>
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=kominsuk1064&show_icons=true&theme=default&hide_border=true" alt="GitHub stats">
+<a href="mailto:kms106418@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 
 </div>
