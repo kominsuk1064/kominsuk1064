@@ -94,6 +94,5 @@ KBO 경기 정보와 팬 커뮤니티를 결합한 풀스택 AI 서비스입니�
 
 - [포트폴리오](https://fifth-panda-1e4.notion.site/c99c6dd2f39982959a3281854e538859)
 - [기술 블로그](https://velog.io/@kms1064/posts)
-- [Portfolio website](https://portfolio-web-deploy-nine.vercel.app/)
 
 </div>
